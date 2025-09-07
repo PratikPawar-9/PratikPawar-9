@@ -34,7 +34,6 @@ I'm an **Automation Test Engineer** passionate about improving software quality,
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-FF4400?style=for-the-badge&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-4C1D1D?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
 ### 🔄 **CI/CD & Version Control**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
