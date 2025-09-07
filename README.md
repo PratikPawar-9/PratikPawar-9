@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Automation Test Engineer | QA Specialist | Continuous Learning Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratikpawar-9/">
+  <a href="https://www.linkedin.com/in/pratikpawar9/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:your.email@example.com">
