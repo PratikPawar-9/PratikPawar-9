@@ -70,5 +70,5 @@ I'm an **Automation Test Engineer** passionate about improving software quality,
 Feel free to reach out for collaborations, discussions, or just to say hi!
 
 📧 pratikpawarofficial97@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/pratikpawar-9/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/pratikpawar9/)  
 🐙 [GitHub](https://github.com/PratikPawar-9)
