@@ -49,7 +49,7 @@ I'm an **Automation Test Engineer** passionate about improving software quality,
 
 ## 📂 Featured Projects
 
-✅ **[E-Commerce Automation]([https://github.com/PratikPawar-9/ecommerce-automation](https://github.com/PratikPawar-9/OrangeHRM-Selenium-Python-Hybrid-Framework))** – A Selenium-based framework with Pytest for end-to-end testing.
+✅ **[E-Commerce Automation](https://github.com/PratikPawar-9/ecommerce-automation](https://github.com/PratikPawar-9/OrangeHRM-Selenium-Python-Hybrid-Framework)** – A Selenium-based framework with Pytest for end-to-end testing.
 
 ✅ **[API Testing Suite](https://github.com/PratikPawar-9/api-testing)** – Automated API validation using Postman and Python requests.
 
