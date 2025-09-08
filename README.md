@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/pratikpawar9/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="pratikpawarofficial@gmail.com">
+  <a href="mailto:pratikpawarofficial@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/PratikPawar-9">
